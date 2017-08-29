@@ -1,14 +1,14 @@
 # Inception model 사용하기
----
-
+<br>
 - 모델 다운로드
 	- <http://download.tensorflow.org/modes/image/imagenet/inception-2015-12-05.tgz>
 <br>
 - 실행환경
-	- python 2.7
-	- tensorflow 1.1.0-gpu
+	* python 2.7
+	* tensorflow 1.1.0-gpu
 <br>
-- 사용법 : python 소스명.py 이미지경로(jpg 이미지만 가능) 
+- 사용법 : python 소스명.py 이미지경로(jpg 이미지만 가능)
+<br> 
 - code
 <pre>
 <code>
